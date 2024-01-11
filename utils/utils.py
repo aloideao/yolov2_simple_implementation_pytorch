@@ -8,7 +8,7 @@ import tqdm
 import torchvision
 import time 
 
-
+#copied from SSD repo
 
 class_names = (  # always index 0
     'aeroplane', 'bicycle', 'bird', 'boat',
